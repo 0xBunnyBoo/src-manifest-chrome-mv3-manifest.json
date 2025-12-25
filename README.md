@@ -1,0 +1,1 @@
+# src-manifest-chrome-mv3-manifest.json
